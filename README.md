@@ -1,8 +1,7 @@
+![Hermes Identity Setup](assets/hermes-identity-setup-banner.png)
+
 # Hermes Identity Setup
 
-<p align="center">
-  <img src="assets/banner.png" alt="Hermes Identity Setup" width="100%">
-</p>
 
 A skill for giving a fresh Hermes agent a clear identity and sense of purpose on first start. Mirroring how a new hire is onboarded, it maps every piece of the agent's "self" to the right file, runs a short interview to learn about the user, and routes each answer to the correct layer — so the agent knows who it is, who you are, and what it has already learned.
 
